@@ -1,1 +1,1 @@
-fad4c52df3bc84d10a86b11b9e3d38e6e0a3896eaff08f51ab5388ff73d4863d  celebression-1.0.0-angel-visuals.jar
+2e11147aae96b9fa1ced27cb8a39fbb4bd51009396ead3b7288ad01c0f893521  celebression-1.0.1-angel-visuals.jar
